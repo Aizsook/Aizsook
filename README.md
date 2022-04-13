@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aizsook
+- 👋 Hi, I’m @milygardiol
 - 👀 I’m interested in learning how to code a web page
 - 🌱 I’m currently learning software building and the oil thecnicature
 - 💞️ I’m looking to collaborate on construction of web pages
